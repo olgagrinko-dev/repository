@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-style: normal;
@@ -9,20 +9,20 @@
     background: #2C2D33;
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
     border-radius: 6px;
-    width: 430px ;
+    width: 430px;
     height: 448px;
 }
 
-.first-p{
+.first-p {
     padding-top: 28px;
     padding-left: 45px;
-    font: 600 16px 'Roboto';
+    font: 500 16px 'Roboto';
     color: #828282;
 }
 
 .number {
     padding-top: 4px;
-    padding-left: 45px;   
+    padding-left: 45px;
     font: 500 40px 'Roboto';
     color: #FFFFFF;
 }
@@ -37,13 +37,14 @@
 .line {
     margin-top: 27px;
     height: 2px;
-    background-color: #4F4F4F;;
-    }
+    background-color: #4F4F4F;
+    ;
+}
 
 .img-1 {
     margin-top: 29px;
     margin-left: 29px;
-    background-image: url(./Group\ 2281.svg) ;
+    background-image: url(./Group\ 2281.svg);
     background-repeat: no-repeat;
     width: 364px;
     height: 197px;
@@ -58,7 +59,7 @@
 }
 
 .img-blue-block {
-    background-image: url(./Rectangle\ 1339.svg) ;
+    background-image: url(./Rectangle\ 1339.svg);
     background-repeat: no-repeat;
     width: 21px;
     height: 8px;
@@ -66,6 +67,6 @@
 }
 
 .lit-blue-p p {
-    font: 400 12px 'Inter';    
+    font: 400 12px 'Inter';
     color: #FFFFFF;
 }
