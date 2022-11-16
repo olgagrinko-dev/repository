@@ -91,12 +91,12 @@
     padding-top: 4px;
     padding-left: 45px;
     font: 500 40px 'Roboto';
-    color: #0B1354;  
+    color: #0B1354;
 }
 
 .second-pp {
     padding-top: 4px;
-    padding-left: 45px;    
+    padding-left: 45px;
     font: 400 14px 'Roboto';
     color: #4F4F4F;
 }
@@ -105,7 +105,7 @@
     margin-top: 27px;
     height: 2px;
     background-color: #ECECEC;
-  }
+}
 
 .container {
     display: flex;
@@ -113,12 +113,12 @@
 }
 
 .img-2 {
-    background-image: url(./Group\ 2280.svg); 
+    background-image: url(./Group\ 2280.svg);
     width: 240px;
     background-repeat: no-repeat;
-    height: 240px; 
+    height: 240px;
 }
-  
+
 .lit {
     display: flex;
     flex-direction: column;
@@ -126,11 +126,14 @@
     margin-left: 25px;
 }
 
-.lit-blue-d, .lit-pink-d, .lit-green-d {
+.lit-blue-d,
+.lit-pink-d,
+.lit-green-d {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
 }
+
 .img-blue-block {
     background-image: url(./Rectangle\ 1339-1.svg);
     background-repeat: no-repeat;
@@ -156,7 +159,6 @@
     font: 400 12px 'Inter';
     color: #4F4F4F;
 }
-
 
 .img-green-block {
     background-image: url(./Rectangle\ 1340-3.svg);
@@ -209,6 +211,10 @@
     background-color: #4F4F4F;
 }
 
+.container-3 {
+    display: inline;
+}
+
 .img-3 {
     margin-top: 29px;
     margin-left: 29px;
@@ -220,6 +226,46 @@
 
 .lit-2 {
     display: flex;
-    flex-direction:row;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 36px;
+    margin-left: 36px;
+}
+
+.lit-blue-a,
+.lit-pink-a,
+.lit-green-a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+}
+
+.img-blue-block-a {
+    background-image: url(./img/Rectangle\ 1339\ \(a\).svg);
+    background-repeat: no-repeat;
+    width: 21px;
+    height: 8px;
+    margin-right: 9px;
+}
+
+.img-pink-block-a {
+    background-image: url(./img/Rectangle\ 1342.svg);
+    background-repeat: no-repeat;
+    width: 21px;
+    height: 8px;
+    margin-right: 9px;
+
+}
+
+.img-green-block-a {
+    background-image: url(./img/Rectangle\ 1343.svg);
+    background-repeat: no-repeat;
+    width: 21px;
+    height: 8px;
+    margin-right: 9px;
 
 }
